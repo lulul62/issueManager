@@ -38,9 +38,9 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://mobirise.com">
+                    
                         <img src="assets/images/logo-soprasteria-1-600x255.png" alt="Mobirise" title="" style="height: 3.8rem;">
-                    </a>
+                    
                 </span>
                 
             </div>
@@ -57,7 +57,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.ws/k">develop your own website</a></section><section class="header12 cid-qUjdJdTrXR mbr-fullscreen mbr-parallax-background" id="header12-1">
+<section class="engine"><a href="https://mobirise.ws/a">best website builder</a></section><section class="header12 cid-qUjdJdTrXR mbr-fullscreen mbr-parallax-background" id="header12-1">
 
     
 
@@ -74,36 +74,36 @@
                     <div class="icons-media-container mbr-white">
                         <div class="card col-12 col-md-6 col-lg-3">
                             <div class="icon-block">
-                            <a href="https://mobirise.com/">
+                            
                                 <span class="mbr-iconfont mbri-preview"></span>
-                            </a>
+                            
                             </div>
                             <h5 class="mbr-fonts-style display-5">Alerte des jalons en retards</h5>
                         </div>
 
                         <div class="card col-12 col-md-6 col-lg-3">
                             <div class="icon-block">
-                                <a href="https://mobirise.com/">
+                                
                                     <span class="mbr-iconfont mbri-bookmark"></span>
-                                </a>
+                                
                             </div>
                             <h5 class="mbr-fonts-style display-5">Rapport d'avancement</h5>
                         </div>
 
                         <div class="card col-12 col-md-6 col-lg-3">
                             <div class="icon-block">
-                                <a href="https://mobirise.com/">
+                                
                                     <span class="mbr-iconfont mbri-growing-chart"></span>
-                                </a>
+                                
                             </div>
                             <h5 class="mbr-fonts-style display-5">Calcul de performance</h5>
                         </div>
 
                         <div class="card col-12 col-md-6 col-lg-3">
                             <div class="icon-block">
-                                <a href="https://mobirise.com/">
+                                
                                     <span class="mbr-iconfont mbri-desktop"></span>
-                                </a>
+                                
                             </div>
                             <h5 class="mbr-fonts-style display-5">Suivi opérationnel recette, build et run</h5>
                         </div>
